@@ -69,7 +69,7 @@ let secondNumber = prompt('input angka kedua : ');
 let pangkat = (Math.pow(firstNumber,secondNumber))
 let bagi = (firstNumber/secondNumber)
 
-alert(`hasil pangkatnya : ` + pangkat + ` hasil pembagiannya : ` + bagi)
+alert(`hasil pangkatnya ${pangkat} hasil pembagiannya ${bagi}`)
 
 
 // case 3
